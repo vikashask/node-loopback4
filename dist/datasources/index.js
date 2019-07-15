@@ -9,4 +9,5 @@ function __export(m) {
 Object.defineProperty(exports, "__esModule", { value: true });
 __export(require("./db.datasource"));
 __export(require("./geocoder.datasource"));
+__export(require("./mysql.datasource"));
 //# sourceMappingURL=index.js.map
